@@ -10,7 +10,7 @@ body{
 div{ 
     height: 900px;
     max-width: 900px;
-    min-width: 500px;
+    min-width: 430px;
     background-image:linear-gradient(rgba(78, 7, 7, 0.651), rgb(40, 40, 40));
     align-items: center;
     margin: auto;
