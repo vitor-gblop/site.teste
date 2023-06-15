@@ -10,7 +10,7 @@ body{
 header{
     background-color: rgb(24, 5, 5);
     box-shadow: 0 0 8px 0 black;
-    min-width: 500px;
+    min-width: 360px;
 }
 .t1{
     padding-left: 18px;
@@ -21,7 +21,7 @@ div.t2{
     text-align: center;
     height: 900px;
     max-width: 900px;
-    min-width: 500px;
+    min-width: 360px;
     background-image:linear-gradient(rgba(78, 7, 7, 0.651), rgb(40, 40, 40));
     align-items: center;
     margin: auto;
@@ -32,7 +32,7 @@ div.t2{
     text-align: center;
     height: auto;
     max-width: 900px;
-    min-width: 500px;
+    min-width: 360px;
     background-image:linear-gradient(rgba(78, 7, 7, 0.651), rgb(40, 40, 40));
     align-items: center;
     margin: auto;
@@ -41,7 +41,7 @@ div.t2{
 
 
 .t3{
-    margin: 10px 150px 5px 150px;
+    margin: 10px 100px 5px 100px;
     text-align: left;
     outline:auto ;
     padding: 0 0 5px 0;
